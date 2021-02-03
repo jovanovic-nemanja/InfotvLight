@@ -1,0 +1,30 @@
+.overlay-container {
+  width: 100%;
+  height: 500px;
+  background: url(/assets/images/bg/bg.png);
+  background-size: cover;
+  margin: 25px 0 20px 0;
+  color: white;
+}
+
+.react-draggable {
+  border: 1px dashed #ffffff7a;
+}
+
+.ticker-rect-table {
+  border-left: 2px solid #48c4f5e3 !important;
+}
+
+.tricker-type-label {
+  position: absolute;
+  top: -22px;
+  left: 0%;
+  color: #c3c3c3 !important;
+  font-size: 13px;
+}
+
+.strech-div-image {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100% !important;
+}

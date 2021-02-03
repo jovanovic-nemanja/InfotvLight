@@ -1,0 +1,23 @@
+.fc-title, .fc-time {
+  color: white;
+}
+
+.fc-axis.fc-time {
+  color: rgb(44, 44, 44);
+}
+
+.datetime-trigger .form-control[readonly] {
+  background: white;
+}
+
+.event-modal-control {
+  width: 350px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.event-modal-control button:focus {
+  box-shadow: none;
+  outline: none;
+}

@@ -1,0 +1,9 @@
+.crop-info-table {
+  width: 100%;
+}
+
+.playlist-drag-line {
+  width: 10px !important;
+  height: 10px !important;
+  background: red !important;
+}

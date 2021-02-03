@@ -1,0 +1,14 @@
+.rdw-editor-main {
+  border: 1px solid #f0f0f0;
+  border-radius: 2px;
+}
+
+.settings-logo-bg {
+  background: url(/assets/images/bg/transparent.png);
+  margin-bottom: 20px;
+  background-size: cover;
+}
+
+.settings-form label {
+  float: right;
+}
